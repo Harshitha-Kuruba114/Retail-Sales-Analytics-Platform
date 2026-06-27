@@ -8,6 +8,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+An interactive **Retail Sales Analytics Dashboard** built using **Python, Streamlit, Pandas, and Plotly**. This project enables users to analyze retail sales data through interactive visualizations, KPI cards, filters, and business insights.
+
 ## 🛠️ Tech Stack
 
 - Python
@@ -15,9 +17,7 @@
 - Pandas
 - Plotly
 - NumPy
-
-An interactive **Retail Sales Analytics Dashboard** built using **Python, Streamlit, Pandas, and Plotly**. This project enables users to analyze retail sales data through interactive visualizations, KPI cards, filters, and business insights.
-
+  
 ---
 
 ## 🚀 Project Overview
