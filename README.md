@@ -73,7 +73,7 @@ Retail-Sales-Analytics-Platform/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Retail-Sales-Analytics-Platform.git
+git clone https://github.com/Harshitha-Kuruba114/Retail-Sales-Analytics-Platform.git
 ```
 
 Replace **your-username** with your GitHub username.
